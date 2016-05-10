@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyRaco</string>
+    <string name="signin">Connectar amb el Racó</string>
+    <string name="signinlater">Connectar després</string>
+    <string name="user">User</string>
+    <string name="pass">Password</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MyRaco</string>
+
+    <string name="title_section1">Avui</string>
+    <string name="title_section2">Avisos</string>
+    <string name="title_section3">Noticies FIB</string>
+    <string name="title_activity_not_logged">NotLogged</string>
+    <string name="loading">Loading</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="description">Description...</string>
+</resources>
